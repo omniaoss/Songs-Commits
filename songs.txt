@@ -1,1 +1,5 @@
-The content is Add content and commit them in both branches
+<<<<<<< HEAD
+The content is  commit them in both branches
+=======
+the conent is add content and commit it to both branches
+>>>>>>> sadsongs
